@@ -1,0 +1,6 @@
+package _36_Abstraction;
+
+public abstract class Vehicle {
+
+    abstract void go();
+}
