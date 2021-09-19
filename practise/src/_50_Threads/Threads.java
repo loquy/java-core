@@ -1,4 +1,4 @@
-package _50_threads;
+package _50_Threads;
 
 public class Threads {
 
